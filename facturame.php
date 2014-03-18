@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ferreteria Ceylan | Index</title>
+  <title>Ferreteria Ceylan | Facturame</title>
   <link rel="stylesheet" href="css/foundation.css" />
   <script src="js/vendor/modernizr.js"></script>
   <script src="js/foundation/foundation.js"></script>
@@ -127,6 +127,9 @@
               
 </style>
 <body>
+<!-- <div class="row">
+  div.columns.large-12.small-12>div.panel.callout*5
+</div> -->
   <div class="contain-to-grid sticky" data-options="sticky_on: large">
     <!-- Top Bar-->
     <nav class="top-bar" data-topbar>
@@ -175,21 +178,29 @@
   </nav>
 </div>
 
-
 <!-- END  -->
-              
+ <div class="row">
+<div class="columns">
+   <ul class="breadcrumbs">
+    <li ><a href="index.html">Inicio</a></li>
+    <li class="current"><a href="#">Factura.me</a></li>    
+  </ul>
+  </div>
+</div>      
+
+
 <div class="path-container">
   <div class="row">
     <div class="large-12 columns ">
-      <h1> This is a Timeline!</h1>
+      <h1> Factura.me</h1>
     </div>
   </div>
   <div class="row path-item">
     <div class="large-7 push-5 columns">
-      <div class="circle circle-left "></div>
+      <div class="circle circle-left "></div>  <!-- Podemos cargar una imagen de tamaño circular -->
     </div>
     <div class="large-5 pull-7 columns path-text left">
-      <h3>Lorem ipsum dolor sit amet, consectetur</h3>
+      <h3>Obten tus facturas facilmente</h3>
       <p>Something that happened in the past or will happen in the future Lorem ipsum dolor sit amet, consectetur adipiscing elit.  a est. Suspendisse potenti. Sc lorem pretium, molestie</p>
       <a href="#">Show something cool Â»</a>
     </div>

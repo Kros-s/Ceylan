@@ -131,7 +131,7 @@ if((isset($_REQUEST['pass'])) && ($_REQUEST['pass'] == "ferreteria")){
             </div>
           </div>
         </form>
-        <input type="submit" class="radius button" value="Send">
+        <input type="submit" class="radius button expand" value="Send">
          <!-- <p>Already have an account? <a href="#">Login here &raquo</a></p> -->
       </div>
     </div>
