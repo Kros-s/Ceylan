@@ -197,7 +197,9 @@
   </div>
   <div class="row path-item">
     <div class="large-7 medium-7 push-5 columns">
-      <div class="circle circle-left "></div>  <!-- Podemos cargar una imagen de tamaño circular -->
+      <div class="circle circle-left ">
+        <img src="img/ceylan.png" alt="Circulo">
+      </div>  <!-- Podemos cargar una imagen de tamaño circular -->
     </div>
     <div class="large-5 pull-7 medium-5 columns path-text left">
       <h3>Obten tus facturas facilmente</h3>
@@ -207,7 +209,9 @@
   </div>
   <div class="row path-item">
     <div class="large-7 medium-7 columns">
-      <div class="circle circle-right right"></div>
+      <div class="circle circle-right right">
+        <img src="img/ceylan2.png" alt="Circulo">
+      </div>
     </div>
     <div class="large-5 medium-5 columns path-text right">
       <h3>Lorem ipsum dolor sit amet, consectetur</h3>
