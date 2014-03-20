@@ -148,10 +148,10 @@
 
           <li class="has-form">
             <div class="row collapse">
-              <div class="large-8 small-9 columns">
+              <div class="large-8 medium-8 small-9 columns">
                 <input  type="text" placeholder="Buscar...">
               </div>
-              <div class="large-4 small-3 columns">
+              <div class="large-4 medium-4 small-3 columns">
                 <a href="#" class="alert button expand">Search</a>
               </div>
             </div>
@@ -191,45 +191,45 @@
 
 <div class="path-container">
   <div class="row">
-    <div class="large-12 columns ">
+    <div class="large-12 medium-12 columns ">
       <h1> Factura.me</h1>
     </div>
   </div>
   <div class="row path-item">
-    <div class="large-7 push-5 columns">
+    <div class="large-7 medium-7 push-5 columns">
       <div class="circle circle-left "></div>  <!-- Podemos cargar una imagen de tamaño circular -->
     </div>
-    <div class="large-5 pull-7 columns path-text left">
+    <div class="large-5 pull-7 medium-5 columns path-text left">
       <h3>Obten tus facturas facilmente</h3>
       <p>Something that happened in the past or will happen in the future Lorem ipsum dolor sit amet, consectetur adipiscing elit.  a est. Suspendisse potenti. Sc lorem pretium, molestie</p>
       <a href="#">Show something cool Â»</a>
     </div>
   </div>
   <div class="row path-item">
-    <div class="large-7 columns">
+    <div class="large-7 medium-7 columns">
       <div class="circle circle-right right"></div>
     </div>
-    <div class="large-5 columns path-text right">
+    <div class="large-5 medium-5 columns path-text right">
       <h3>Lorem ipsum dolor sit amet, consectetur</h3>
       <p>Something that happened in the past or will happen in the future Lorem ipsum dolor sit amet, consectetur adipiscing elit.  a est. Suspendisse potenti. Sc lorem pretium, molestie</p>
       <a href="#">Show something cool Â»</a>
     </div>
   </div>
   <div class="row get-feedback path-item">
-    <div class="large-7 push-5 columns">
+    <div class="large-7 medium-7 push-5 columns">
       <div class="circle circle-left"></div>
     </div>
-    <div class="large-5 pull-7 columns path-text left">
+    <div class="large-5 medium-5 pull-7 columns path-text left">
       <h3>Lorem ipsum dolor sit amet, consectetur</h3>
       <p>Something that happened in the past or will happen in the future Lorem ipsum dolor sit amet, consectetur adipiscing elit.  a est. Suspendisse potenti. Sc lorem pretium, molestie</p>
       <a href="#">Show something cool Â»</a>
     </div>
   </div>
   <div class="row land-job path-item">
-    <div class="large-7 columns">
+    <div class="large-7 medium-7 columns">
       <div class="circle circle-right right"></div>
     </div>
-    <div class="large-5 columns path-text right">
+    <div class="large-5 medium-5 columns path-text right">
       <h3>Lorem ipsum dolor sit amet, consectetur</h3>
       <p>Something that happened in the past or will happen in the future Lorem ipsum dolor sit amet, consectetur adipiscing elit.  a est. Suspendisse potenti. Sc lorem pretium, molestie</p>
       <a href="#">Show something cool Â»</a>
