@@ -56,9 +56,11 @@ if((isset($_REQUEST['pass'])) && ($_REQUEST['pass'] == "ferreteria")){
   margin-left: 25%;
 }
 .signup-panel .button {
-  margin-left: 35%;
+  margin-left: 0%;
 }
-              
+ /*
+  Cahnge the margin-letf to 0% cause it makes button look strange
+ */             
 </style>
 <body>
   <div class="contain-to-grid sticky" data-options="sticky_on: large">
@@ -128,12 +130,18 @@ if((isset($_REQUEST['pass'])) && ($_REQUEST['pass'] == "ferreteria")){
             </div>
             <div class="small-10 columns ">
               <input type="password" name="pass" placeholder="password">
+
             </div>
+            
+            
           </div>
+
         </form>
-        <input type="submit" class="radius button expand" value="Send">
+        
          <!-- <p>Already have an account? <a href="#">Login here &raquo</a></p> -->
+         <input type="submit" class="radius button expand" value="Send">
       </div>
+
     </div>
    </div>    
 
