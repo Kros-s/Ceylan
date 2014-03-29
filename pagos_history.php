@@ -83,13 +83,23 @@
   </dl>
   <div class="tabs-content vertical">
     <div class="content active" id="panel1a">
-      <p>Panel 1 content goes here. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, quod, odit, et quibusdam nobis hic at quisquam sunt suscipit maxime veniam ad cupiditate reprehenderit officia iure obcaecati nisi. Nobis, natus!</p>
+      <br>
+      <div class="panel"><p><strong>Pagos Activos:</strong></p>
+        <p></p>
+      </div>
+      
     </div>
     <div class="content" id="panel2a">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, voluptatum, modi, vitae, itaque aut suscipit nulla repudiandae laborum natus obcaecati deserunt tenetur aliquid dolorem id pariatur distinctio numquam. Unde, voluptatem.</p>
+      <br>
+      <div class="panel"><p><strong>Pagos Activos:</strong></p>
+        <p></p>
+      </div>
     </div>
     <div class="content" id="panel3a">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, tempore veritatis aliquid consequuntur expedita hic iusto sequi velit aspernatur illum fugit vero aperiam sit ipsum quis laudantium perspiciatis quia veniam.</p>
+      <br>
+      <div class="panel"><p><strong>Pagos Activos:</strong></p>
+        <p></p>
+      </div>
     </div>     
   </div>  
 </div>
